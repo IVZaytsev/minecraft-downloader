@@ -7,19 +7,19 @@
 ## Как пользоваться
 1. Запустить скрипт и выбрать из 3-х возможных вариантов: **release**, **snapshot** или **old**
 
-<p align="center"><img src="https://github.com/IVZaytsev/minecraft-builder/blob/main/readme/downloader1.png?raw=true" alt="Выбор требуемого режима"/></p>
+<p align="center"><img src="https://github.com/IVZaytsev/minecraft-downloader/blob/main/readme/downloader1.png?raw=true" alt="Выбор требуемого режима"/></p>
 
 2. Если выбран **old**, то будет предложено ввести номер версии игры:
 
-<p align="center"><img src="https://github.com/IVZaytsev/minecraft-builder/blob/main/readme/downloader2.png?raw=true" alt="Выбор версии для скачивания"/></p>
+<p align="center"><img src="https://github.com/IVZaytsev/minecraft-downloader/blob/main/readme/downloader2.png?raw=true" alt="Выбор версии для скачивания"/></p>
 
 3. После выбора начнётся загрузка файлов игры, дождитесь её окончания (процесс может занимать до 10 минут).
 
-<p align="center"><img src="https://github.com/IVZaytsev/minecraft-builder/blob/main/readme/downloader3.png?raw=true" alt="Загрузка ресурсов"/></p>
+<p align="center"><img src="https://github.com/IVZaytsev/minecraft-downloader/blob/main/readme/downloader3.png?raw=true" alt="Загрузка ресурсов"/></p>
 
 4. По окончанию загрузки будет предложено ввести **имя игрока** для создания запускающего игру BAT-файла
 
-<p align="center"><img src="https://github.com/IVZaytsev/minecraft-builder/blob/main/readme/downloader4.png?raw=true" alt="Завершение работы"/></p>
+<p align="center"><img src="https://github.com/IVZaytsev/minecraft-downloader/blob/main/readme/downloader4.png?raw=true" alt="Завершение работы"/></p>
 
 5. После создания BAT-файла будет открыта папка, в которой находится игра и BAT-файл для её запуска. Клиент полностью готов и может быть скопирован куда-угодно.
 
